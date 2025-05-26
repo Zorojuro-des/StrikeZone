@@ -1,33 +1,68 @@
-# StrikeZone
-## Basic Melee Attack Game
-Welcome to my Basic Melee Attack Game! This game is a simple action game that supports both laptop and mobile platforms (Android). The goal is to provide a fun and engaging experience where players can perform melee attacks to defeat enemies while exploring the game environment.
+# ⚔️ StrikeZone
+### Basic Melee Attack Game — Cross-Platform (Laptop + Android)
 
-## Features
-Melee Attack System: Engage in fast-paced combat with a variety of attack animations.
-Cross-Platform Support: Play the game on both laptops (with keyboard input) and mobile devices (touch controls).
-Dynamic Combat: Attack enemies with simple button presses or screen touches.
-Mobile Optimizations: Custom controls and user interface designed for touch-based gameplay on mobile devices.
-How to Play
-Laptop (Keyboard and Mouse):
-Move: Use the arrow keys (left and right) move your character.
-Jump: Press spacebar.
-Attack: Press X for Knight and mouse click for Wizard.
-Switch Character: Press Z to switch between the characters.
+Welcome to **StrikeZone**, a fast-paced melee action game built for both **laptop** and **mobile** platforms. Players can switch between unique characters, perform melee attacks, and engage enemies in an immersive combat environment. Optimized for fun, fluid gameplay and cross-platform compatibility.
 
-## Mobile (Touch Controls):
-Move: Use the on-screen joystick to move your character.
-Attack: Tap the attack button on the right side of the screen to perform a melee attack for the knight.
-Switch Character: Just press the character switch button provided beside the jump (up arrow) icon. 
-Installation
-To play the game, follow these steps:
+---
 
-## Laptop Version:
-Download the game from the Releases section.
-Extract the files and run the executable (.exe or .app).
-Mobile Version (Android):
-Download the .apk file from the Releases section.
-Install the APK on your Android device (make sure to allow installation from unknown sources).
-Launch the game from your device's app drawer.
+## 🎮 Features
 
-## Feedback
-Feel free to share your thoughts or report any bugs by opening an issue in this repository. I appreciate your feedback and will continue improving the game over time!
+- 🔥 **Melee Attack System**: Execute smooth, fast-paced melee combat with responsive attack animations.
+- 💻 **Cross-Platform Support**: Compatible with both **laptops** (keyboard/mouse) and **Android** devices (touch screen).
+- 🕹️ **Dynamic Controls**: Attack, move, jump, and switch characters using intuitive controls for each platform.
+- 📱 **Mobile Optimizations**: Touch-based UI with on-screen joystick and action buttons for easy gameplay.
+
+---
+
+## 🕹️ How to Play
+
+### 💻 Laptop (Keyboard + Mouse)
+- **Move**: `←` and `→` arrow keys
+- **Jump**: `Spacebar`
+- **Attack**:
+  - Knight: `X`
+  - Wizard: `Left Mouse Click`
+- **Switch Character**: `Z`
+
+### 📱 Mobile (Android Touch Controls)
+- **Move**: On-screen joystick
+- **Attack**:
+  - Knight: Tap the **Attack** button on the right
+- **Switch Character**: Press the **Switch** button near the **Jump (↑)** icon
+
+---
+
+## 🛠️ Installation
+
+### 💻 Laptop Version
+1. Go to the **[Releases](../../releases)** section of this repository.
+2. Download the latest version for your system (`.exe` for Windows or `.app` for Mac).
+3. Extract the files and run the executable to start playing.
+
+### 📱 Android Version
+1. Download the `.apk` file from the **[Releases](../../releases)** section.
+2. On your device, enable **"Install from Unknown Sources"** if prompted.
+3. Install the APK and launch the game from your app drawer.
+
+---
+
+## 🧠 Development Info
+
+StrikeZone is a game prototype designed to demonstrate:
+- Character control systems
+- Attack animations and input handling
+- Platform-specific UI design and responsiveness
+
+Built with Unity Engine for cross-platform support and optimized performance.
+
+---
+
+## 📝 Feedback
+
+Found a bug or have a suggestion?  
+Feel free to [open an issue](../../issues) — your feedback helps improve the game!
+
+---
+
+Thanks for checking out **StrikeZone**! ⚔️  
+Enjoy the fight, whether you're playing on a keyboard or tapping on a screen!

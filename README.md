@@ -34,15 +34,16 @@ Welcome to **StrikeZone**, a fast-paced melee action game built for both **lapto
 
 ## 🛠️ Installation
 
-### 💻 Laptop Version
-1. Go to the **[Releases](../../releases)** section of this repository.
-2. Download the latest version for your system (`.exe` for Windows or `.app` for Mac).
-3. Extract the files and run the executable to start playing.
+### 🔗 [Download StrikeZone from Itch.io](https://zoro-des.itch.io/strike-zone)
 
-### 📱 Android Version
-1. Download the `.apk` file from the **[Releases](../../releases)** section.
-2. On your device, enable **"Install from Unknown Sources"** if prompted.
-3. Install the APK and launch the game from your app drawer.
+#### 💻 Laptop Version
+1. Download the `.zip` or appropriate installer from the Itch.io page.
+2. Extract the files and run the executable (`.exe` for Windows or `.app` for Mac).
+
+#### 📱 Android Version
+1. Download the `.apk` from the same Itch.io page.
+2. On your device, allow "Install from Unknown Sources" if prompted.
+3. Install the APK and launch it from your app drawer.
 
 ---
 
